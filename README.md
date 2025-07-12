@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on Machine learning , Software Development,System design.....<br>🌈 I'm looking to collaborate on Open source contributions etc<br>🤝 I'm looking for help with Senoir engineers,App developers,graphic designers..<br>🌱 I'm currently learning C program,C++,Python, and Data structure and Algorithms<br>⚡ Fun fact learner,coder,team builder,innovative etc
+🚀 I'm currently working on Machine learning , Software Development,System design.....<br>🌈 I'm looking to collaborate on Open source contributions etc<br>🤝 I'm looking for help with Senoir engineers,App developers,graphic designers..<br>🌱 I'm currently learning C program,C++,Python,Java, Data structures and Algorithms<br>⚡ Fun fact learner,coder,team builder,innovative etc
 
 
 ## 🌐 Socials:
