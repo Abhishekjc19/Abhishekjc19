@@ -1,26 +1,74 @@
-# 💫 About Me:
-🚀 I'm currently working on Software Development,Web design.....<br>🌈 I'm looking to collaborate on Open source contributions etc<br>🤝 I'm looking for help with Senoir engineers,App developers,graphic designers..<br>🌱 I'm currently learning Java, Data structures and Algorithms<br>⚡ Fun fact learner,coder,team builder,innovative etc
+<p align="center">
+  <img src="https://em-content.zobj.net/source/apple/391/folded-hands_light-skin-tone_1f64f-1f3fb_1f3fb.png" width="25" align="left"> 
+  Ram Ram 
+  <img align="right" width="25" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</p>
 
+**<h4 align="center">`Aspiring to solve real world problems and become a Technically Sound Engineer ✨`**  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/sYuacDGS) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ABHISHEK/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-j-c-78855829b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekjc679@gmail.com) 
+![namaste](gitBanner.svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+<pre align="center">
+   💼 B.E in AIML @ NMIT
+   💻 Software Developer • Web Designer
+   🌎 Based in India 🇮🇳
+   🚀 Building, Learning, and Collaborating on Open Source
+   🎮 Music • Games • Code 
+   ➡️ When I am not coding, you’ll probably find me on the football pitch.
+</pre>
+</h4>
+
+<img src="taj.png" alt="taj" align="right" width="300"> <br>
+
+* 🌱 I’m currently learning **Java, DSA, and Web Development**
+* 🤝 Looking to collaborate with ** Engineers, App Developers, and Designers**
+* 👨‍💻 Working on **Software Development & Web Design**
+* ⚡ Fun fact: **Learner • Coder • Team Builder • Innovative**
+* 📫 Reach me at **[abhishekjc679@gmail.com](mailto:abhishekjc679@gmail.com)**
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Abhishekjc19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+<a href="https://discord.com/invite/sYuacDGS">
+  <img width="120" src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=000&color=000" alt="Discord Badge" />
+</a>
+<a href="https://www.facebook.com/ABHISHEK/">
+  <img width="120" src="https://img.shields.io/badge/-Facebook?style=for-the-badge&logo=facebook&logoColor=fff&label=Facebook&labelColor=000&color=000" alt="Facebook Badge" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-j-c-78855829b">
+  <img width="120" src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=fff&label=LinkedIn&labelColor=000&color=000" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:abhishekjc679@gmail.com">
+  <img width="104" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=fff&logoSize=auto&label=Email&labelColor=000&color=000" alt="Email Badge" />
+</a>
+
+---
+
+<img src="showcase.png" alt="showcase" width="250">
+
+### 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nodejs,express,spring,hibernate,git,github,postman,firebase,mysql,mongodb&theme=light)](https://skillicons.dev)
+
+### 🛠 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,kubernetes,maven&theme=light)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Abhishekjc19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhishekjc19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekjc19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekjc19&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishekjc19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-![](https://komarev.com/ghpvc/?username=Abhishekjc19&label=Profile+Views&color=0e75b6&style=flat)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub last commit](https://img.shields.io/github/last-commit/Abhishekjc19/Abhishekjc19?style=for-the-badge&logo=git&logoColor=fff&labelColor=000&color=32a632)
+![Static Badge](https://img.shields.io/badge/-Created%20By?style=for-the-badge&logo=github&logoColor=FFF&label=Abhishekjc19&labelColor=000&color=000)
