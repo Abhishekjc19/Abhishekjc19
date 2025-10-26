@@ -21,7 +21,7 @@
 <img src="taj.png" alt="taj" align="right" width="300"> <br>
 
 * 🌱 I’m currently learning **Java, DSA, and Web Development**
-* 🤝 Looking to collaborate with ** Engineers, App Developers, and Designers**
+* 🤝 Looking to collaborate with **Engineers, App Developers, and Designers**
 * 👨‍💻 Working on **Software Development & Web Design**
 * ⚡ Fun fact: **Learner • Coder • Team Builder • Innovative**
 * 📫 Reach me at **[abhishekjc679@gmail.com](mailto:abhishekjc679@gmail.com)**
@@ -69,6 +69,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+##### If you have any questions, suggestions, or just want to say hi, feel free to reach out — I’ll be happy to meet you. Peace ✌️  
+<img src="cat.png" alt="cat winking" width="150" align="right">
+
+<br>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abhishekjc19/Abhishekjc19?style=for-the-badge&logo=git&logoColor=fff&labelColor=000&color=32a632)
 ![Static Badge](https://img.shields.io/badge/-Created%20By?style=for-the-badge&logo=github&logoColor=FFF&label=Abhishekjc19&labelColor=000&color=000)
