@@ -27,7 +27,8 @@
 * 📫 Reach me at **[abhishekjc679@gmail.com](mailto:abhishekjc679@gmail.com)**
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Abhishekjc19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishekjc19&label=Profile%20views&color=000000&style=for-the-badge" alt="profile views"/>
 
 <h3 align="left">🌐 Connect with me:</h3>
 
