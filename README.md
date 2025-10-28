@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://em-content.zobj.net/source/apple/391/folded-hands_light-skin-tone_1f64f-1f3fb_1f3fb.png" width="25" align="left"> 
-  Ram Ram 
+  ಕನ್ನಡಿಗ💛❤️
   <img align="right" width="25" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 </p>
 
@@ -14,7 +14,7 @@
    🌎 Based in India 🇮🇳
    🚀 Building, Learning, and Collaborating on Open Source
    🎮 Music • Games • Code 
-   ➡️ When I am not coding, you’ll probably find me on the football pitch.
+   ➡️ When I am not coding, you’ll probably find me outdoors.
 </pre>
 </h4>
 
