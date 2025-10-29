@@ -72,7 +72,7 @@
 ---
 
 ##### If you have any questions, suggestions, or just want to say hi, feel free to reach out — I’ll be happy to meet you. Peace ✌️  
-<img src="Roboimg.png" alt="Robo image" width="150" align="right">
+<img src="Final.png" alt="Kannada image" width="150" align="right">
 
 <br>
 
