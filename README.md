@@ -6,7 +6,7 @@
 
 **<h4 align="center">`Aspiring to solve real world problems and become a Technically Sound Engineer ✨`**  
 
-![namaste](gitBanner.svg.jpg)
+![namaste](FrontBanner.png)
 
 <pre align="center">
    💼 B.E in AIML @ NMIT
