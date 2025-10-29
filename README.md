@@ -18,7 +18,7 @@
 </pre>
 </h4>
 
-<img src="Mysorepalace.png" alt="Mysorepalace" align="right" width="300"> <br>
+<img src="Mysorepalace.jpg" alt="Mysorepalace" align="right" width="300"> <br>
 
 * 🌱 I’m currently learning **Java, DSA, and Web Development**
 * 🤝 Looking to collaborate with **Engineers, App Developers, and Designers**
