@@ -18,7 +18,7 @@
 </pre>
 </h4>
 
-<img src=" taj.png" alt="Taj" align="right" width="300"> <br>
+<img src="taj.png" alt="Taj" align="right" width="300"> <br>
 
 * 🌱 I’m currently learning **Java, DSA, and Web Development**
 * 🤝 Looking to collaborate with **Engineers, App Developers, and Designers**
