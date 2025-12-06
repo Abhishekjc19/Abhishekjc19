@@ -51,7 +51,7 @@
 
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nodejs,express,spring,hibernate,git,github,postman,firebase,mysql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,spring,hibernate,git,github,postman,firebase,mongodb&theme=light)](https://skillicons.dev)
 
 ### 🛠 Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,kubernetes,maven&theme=light)](https://skillicons.dev)
